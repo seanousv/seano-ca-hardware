@@ -22,3 +22,8 @@ __pycache__/
 seano_ca_ws/test_media/
 seano_ca_ws/bags/
 seano_event_logs/
+
+# Non-hardware demo/test launch files
+seano_ca_ws/src/seano_vision/launch/demo_full_ca.launch.py
+seano_ca_ws/src/seano_vision/launch/phase2_camera_source_test.launch.py
+seano_ca_ws/src/seano_vision/launch/phase2_camera_usb_test.launch.py
