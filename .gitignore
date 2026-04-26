@@ -1,0 +1,24 @@
+# ROS2 build outputs
+seano_ca_ws/build/
+seano_ca_ws/install/
+seano_ca_ws/log/
+
+# Python/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Runtime logs / bags / media
+*.bag
+*.db3
+*.mcap
+*.log
+*.mp4
+*.avi
+*.mov
+*.mkv
+seano_ca_ws/test_media/
+seano_ca_ws/bags/
+seano_event_logs/
